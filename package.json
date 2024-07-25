@@ -1,0 +1,15 @@
+{
+  "name": "tractor-server",
+  "version": "0.0.1",
+  "description": "Server layer for driving hardware from RPi-ZeroW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "white.dmitry@gmail.com <Dmitry White>",
+  "license": "ISC",
+  "dependencies": {
+    "fast-toml": "^0.5.4",
+    "pigpio": "^3.3.1"
+  }
+}
